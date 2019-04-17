@@ -1,5 +1,5 @@
 天眼查爬虫说明文档
-1.    环境搭建
+1.    环境搭建(windows)
 环境：Python3 + Selenium + Firefox火狐浏览器
 搭建：
 1）选择好python3的开发环境
